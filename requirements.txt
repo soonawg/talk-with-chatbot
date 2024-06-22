@@ -4,3 +4,4 @@ torch
 tkinter
 pygame
 playsound
+gTTS
