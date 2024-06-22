@@ -3,5 +3,4 @@ transformers
 torch
 tkinter
 pygame
-datetime
 playsound
